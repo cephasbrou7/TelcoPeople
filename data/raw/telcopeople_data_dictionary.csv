@@ -1,0 +1,86 @@
+fichier,colonne,description
+telcopeople_train_v3.csv,id,Identifiant unique de l'observation.
+telcopeople_train_v3.csv,date_reference,Date de référence de l'observation.
+telcopeople_train_v3.csv,genre,Genre déclaré dans le SIRH.
+telcopeople_train_v3.csv,date_naissance,Date de naissance enregistrée.
+telcopeople_train_v3.csv,ville_affectation,Ville principale d'affectation.
+telcopeople_train_v3.csv,departement,Code du département enregistré dans le SIRH.
+telcopeople_train_v3.csv,poste,Intitulé du poste.
+telcopeople_train_v3.csv,niveau_etude,Niveau d'études enregistré.
+telcopeople_train_v3.csv,contrat,Type de contrat enregistré.
+telcopeople_train_v3.csv,grade,Grade professionnel.
+telcopeople_train_v3.csv,date_embauche,Date d'embauche enregistrée.
+telcopeople_train_v3.csv,date_derniere_promotion,Date de la dernière promotion enregistrée lorsqu'elle est disponible.
+telcopeople_train_v3.csv,salaire_mensuel,"Salaire mensuel de base enregistré, en FCFA."
+telcopeople_train_v3.csv,salaire_12m_avant,Salaire mensuel de base observé environ 12 mois auparavant lorsqu'il est disponible.
+telcopeople_train_v3.csv,reference_salaire_grade,"Salaire mensuel de référence associé au grade, en FCFA."
+telcopeople_train_v3.csv,performance_actuelle,Dernière note de performance disponible.
+telcopeople_train_v3.csv,performance_precedente,Note de performance précédente lorsqu'elle est disponible.
+telcopeople_train_v3.csv,engagement_actuel,Dernier score d'engagement disponible.
+telcopeople_train_v3.csv,engagement_precedent,Score d'engagement précédent lorsqu'il est disponible.
+telcopeople_train_v3.csv,date_derniere_absence,Date de la dernière absence enregistrée lorsqu'elle est disponible.
+telcopeople_train_v3.csv,jours_abs_m1,Nombre de jours d'absence enregistrés pour le mois M-0.
+telcopeople_train_v3.csv,jours_abs_m2,Nombre de jours d'absence enregistrés pour le mois M-1.
+telcopeople_train_v3.csv,jours_abs_m3,Nombre de jours d'absence enregistrés pour le mois M-2.
+telcopeople_train_v3.csv,jours_abs_m4,Nombre de jours d'absence enregistrés pour le mois M-3.
+telcopeople_train_v3.csv,jours_abs_m5,Nombre de jours d'absence enregistrés pour le mois M-4.
+telcopeople_train_v3.csv,jours_abs_m6,Nombre de jours d'absence enregistrés pour le mois M-5.
+telcopeople_train_v3.csv,abs_non_just_m1,Nombre de jours d'absence non justifiée enregistrés pour le mois M-0.
+telcopeople_train_v3.csv,abs_non_just_m2,Nombre de jours d'absence non justifiée enregistrés pour le mois M-1.
+telcopeople_train_v3.csv,abs_non_just_m3,Nombre de jours d'absence non justifiée enregistrés pour le mois M-2.
+telcopeople_train_v3.csv,abs_non_just_m4,Nombre de jours d'absence non justifiée enregistrés pour le mois M-3.
+telcopeople_train_v3.csv,abs_non_just_m5,Nombre de jours d'absence non justifiée enregistrés pour le mois M-4.
+telcopeople_train_v3.csv,abs_non_just_m6,Nombre de jours d'absence non justifiée enregistrés pour le mois M-5.
+telcopeople_train_v3.csv,nb_abs_m1,Nombre d'événements d'absence enregistrés pour le mois M-0.
+telcopeople_train_v3.csv,nb_abs_m2,Nombre d'événements d'absence enregistrés pour le mois M-1.
+telcopeople_train_v3.csv,nb_abs_m3,Nombre d'événements d'absence enregistrés pour le mois M-2.
+telcopeople_train_v3.csv,nb_abs_m4,Nombre d'événements d'absence enregistrés pour le mois M-3.
+telcopeople_train_v3.csv,nb_abs_m5,Nombre d'événements d'absence enregistrés pour le mois M-4.
+telcopeople_train_v3.csv,nb_abs_m6,Nombre d'événements d'absence enregistrés pour le mois M-5.
+telcopeople_train_v3.csv,taille_departement,Effectif enregistré du département à la date de référence.
+telcopeople_train_v3.csv,code_site,Code du site d'affectation.
+telcopeople_train_v3.csv,source_sirh,Système source ayant fourni l'enregistrement.
+telcopeople_train_v3.csv,target,"1 si un départ intervient dans les six mois suivant la date de référence, sinon 0."
+telcopeople_test_v3.csv,id,Identifiant unique de l'observation.
+telcopeople_test_v3.csv,date_reference,Date de référence de l'observation.
+telcopeople_test_v3.csv,genre,Genre déclaré dans le SIRH.
+telcopeople_test_v3.csv,date_naissance,Date de naissance enregistrée.
+telcopeople_test_v3.csv,ville_affectation,Ville principale d'affectation.
+telcopeople_test_v3.csv,departement,Code du département enregistré dans le SIRH.
+telcopeople_test_v3.csv,poste,Intitulé du poste.
+telcopeople_test_v3.csv,niveau_etude,Niveau d'études enregistré.
+telcopeople_test_v3.csv,contrat,Type de contrat enregistré.
+telcopeople_test_v3.csv,grade,Grade professionnel.
+telcopeople_test_v3.csv,date_embauche,Date d'embauche enregistrée.
+telcopeople_test_v3.csv,date_derniere_promotion,Date de la dernière promotion enregistrée lorsqu'elle est disponible.
+telcopeople_test_v3.csv,salaire_mensuel,"Salaire mensuel de base enregistré, en FCFA."
+telcopeople_test_v3.csv,salaire_12m_avant,Salaire mensuel de base observé environ 12 mois auparavant lorsqu'il est disponible.
+telcopeople_test_v3.csv,reference_salaire_grade,"Salaire mensuel de référence associé au grade, en FCFA."
+telcopeople_test_v3.csv,performance_actuelle,Dernière note de performance disponible.
+telcopeople_test_v3.csv,performance_precedente,Note de performance précédente lorsqu'elle est disponible.
+telcopeople_test_v3.csv,engagement_actuel,Dernier score d'engagement disponible.
+telcopeople_test_v3.csv,engagement_precedent,Score d'engagement précédent lorsqu'il est disponible.
+telcopeople_test_v3.csv,date_derniere_absence,Date de la dernière absence enregistrée lorsqu'elle est disponible.
+telcopeople_test_v3.csv,jours_abs_m1,Nombre de jours d'absence enregistrés pour le mois M-0.
+telcopeople_test_v3.csv,jours_abs_m2,Nombre de jours d'absence enregistrés pour le mois M-1.
+telcopeople_test_v3.csv,jours_abs_m3,Nombre de jours d'absence enregistrés pour le mois M-2.
+telcopeople_test_v3.csv,jours_abs_m4,Nombre de jours d'absence enregistrés pour le mois M-3.
+telcopeople_test_v3.csv,jours_abs_m5,Nombre de jours d'absence enregistrés pour le mois M-4.
+telcopeople_test_v3.csv,jours_abs_m6,Nombre de jours d'absence enregistrés pour le mois M-5.
+telcopeople_test_v3.csv,abs_non_just_m1,Nombre de jours d'absence non justifiée enregistrés pour le mois M-0.
+telcopeople_test_v3.csv,abs_non_just_m2,Nombre de jours d'absence non justifiée enregistrés pour le mois M-1.
+telcopeople_test_v3.csv,abs_non_just_m3,Nombre de jours d'absence non justifiée enregistrés pour le mois M-2.
+telcopeople_test_v3.csv,abs_non_just_m4,Nombre de jours d'absence non justifiée enregistrés pour le mois M-3.
+telcopeople_test_v3.csv,abs_non_just_m5,Nombre de jours d'absence non justifiée enregistrés pour le mois M-4.
+telcopeople_test_v3.csv,abs_non_just_m6,Nombre de jours d'absence non justifiée enregistrés pour le mois M-5.
+telcopeople_test_v3.csv,nb_abs_m1,Nombre d'événements d'absence enregistrés pour le mois M-0.
+telcopeople_test_v3.csv,nb_abs_m2,Nombre d'événements d'absence enregistrés pour le mois M-1.
+telcopeople_test_v3.csv,nb_abs_m3,Nombre d'événements d'absence enregistrés pour le mois M-2.
+telcopeople_test_v3.csv,nb_abs_m4,Nombre d'événements d'absence enregistrés pour le mois M-3.
+telcopeople_test_v3.csv,nb_abs_m5,Nombre d'événements d'absence enregistrés pour le mois M-4.
+telcopeople_test_v3.csv,nb_abs_m6,Nombre d'événements d'absence enregistrés pour le mois M-5.
+telcopeople_test_v3.csv,taille_departement,Effectif enregistré du département à la date de référence.
+telcopeople_test_v3.csv,code_site,Code du site d'affectation.
+telcopeople_test_v3.csv,source_sirh,Système source ayant fourni l'enregistrement.
+telcopeople_hidden_labels_v3.csv,id,Identifiant unique de l'observation.
+telcopeople_hidden_labels_v3.csv,target,"1 si un départ intervient dans les six mois suivant la date de référence, sinon 0."
