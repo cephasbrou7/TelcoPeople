@@ -1,0 +1,2 @@
+experience,periode_validation,nombre_variables,meilleure_iteration,seuil,auc_validation,f1_validation,precision_validation,rappel_validation,positifs_test
+CatBoost temporel v1,2024-06-30,60,301,0.54,0.7102541458149347,0.3058252427184466,0.2226148409893993,0.4883720930232558,350

@@ -1,0 +1,7 @@
+modele,type_depart,effectif,rappel
+prediction_base,Départ visible,100,0.51
+prediction_base,Départ silencieux,29,0.1724137931034483
+prediction_cluster,Départ visible,100,0.55
+prediction_cluster,Départ silencieux,29,0.1724137931034483
+prediction_hybride,Départ visible,100,0.57
+prediction_hybride,Départ silencieux,29,0.1724137931034483

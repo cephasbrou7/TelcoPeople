@@ -1,0 +1,5 @@
+modele,type_depart,effectif,detectes,rappel
+Global,Départ visible,100,57,0.57
+Global,Départ silencieux,29,5,0.1724137931034483
+Fusion,Départ visible,100,57,0.57
+Fusion,Départ silencieux,29,5,0.1724137931034483

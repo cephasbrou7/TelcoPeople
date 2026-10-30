@@ -1,0 +1,5 @@
+type_resultat,engagement_actuel,engagement_moyen,evolution_engagement,ratio_salaire_reference,taux_evolution_salaire,performance_moyenne,anciennete,annees_depuis_promotion,jours_abs_6m,tendance_absence,probabilite_depart
+Faux négatif,3.476,3.467,0.001,0.996,0.042,3.371,2.769,1.992,1.877,0.068,0.424
+Faux positif,2.883,2.866,0.073,0.851,0.033,3.427,2.199,1.103,2.579,0.743,0.648
+Vrai négatif,3.686,3.697,-0.019,1.046,0.06,3.464,2.478,1.252,1.41,0.165,0.356
+Vrai positif,2.69,2.673,0.029,0.84,0.044,3.402,1.999,1.167,2.036,0.321,0.655

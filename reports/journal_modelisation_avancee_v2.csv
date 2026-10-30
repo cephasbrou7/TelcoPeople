@@ -1,0 +1,2 @@
+experience,configuration,nombre_variables,f1_moyen_fenetres,auc_moyenne_fenetres,seuil_global,iterations_finales,positifs_test_seuil_global,positifs_test_seuil_strict
+CatBoost avancé multi-fenêtres v2,catboost_d6,81,0.30309164386377635,0.7033435896478454,0.6,167,253,132
